@@ -29,4 +29,6 @@ The dataset contains vehicle features including:
 
 ## Internship Context
 
-This project was completed during a data analytics internship, demonstrating skills in regression analysis, structured data handling, and predictive modeling using
+This project was completed during a data analytics internship, demonstrating skills in regression analysis, structured data handling, and predictive modeling using Python frameworks.
+
+---
